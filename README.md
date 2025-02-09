@@ -1,6 +1,4 @@
 # MREL-2025
-# MREL
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
