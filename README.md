@@ -120,7 +120,7 @@ Faciliter la résolution bancaire en cas de défaillance, conformément aux règ
             const feedback = document.querySelector('input[name="comprehension"]:checked');
             if (feedback) {
                 if (feedback.value === 'oui') {
-                    alert("Espèce de gros mytho mdrrr t'as rien compris à ce que t'as fais et Claire le sait très bien");
+                    alert("Espèce de gros mytho mdrrr t'as rien compris à ce que t'as fait et Claire le sait très bien");
                 } else {
                     alert("C'est bien ce que je me disais, t'es complètement con");
                 }
